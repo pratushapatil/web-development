@@ -1,0 +1,7 @@
+	Natural language processing (NLP) is an interdisciplinary subfield of computer science and linguistics. It is primarily concerned with giving computers the ability to support and manipulate speech. 
+It involves processing natural language datasets, such as text corpora or speech corpora, using either rule-based or probabilistic (i.e. statistical and, most recently, neural network-based) machine learning approaches.
+	The goal is a computer capable of "understanding" the contents of documents, including the contextual nuances of the language within them. 
+	The technology can then accurately extract information and insights contained in the documents as well as categorize and organize the documents themselves.
+Challenges in natural language processing frequently involve speech recognition, natural-language understanding, and natural-language generation.
+	Natural language processing has its roots in the 1950s. Already in 1950, Alan Turing published an article titled "Computing Machinery and Intelligence" which proposed what is now called the Turing test as a criterion of intelligence, though at the time that was not articulated as a problem separate from artificial intelligence. 
+The proposed test includes a task that involves the automated interpretation and generation of natural language.
